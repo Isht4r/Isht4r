@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isht4r
-- 👀 I’m interested in: Databases, Algorithms, Software engineering
-- 🌱 I’m currently learning: Elixir
+- 👀 I’m interested in: Databases, Algebra, Software engineering
+- 🌱 I’m currently learning: C/C++
 - 📫 How to reach me: Discord:"ルイス | Luis#0002"
 
 <!---
